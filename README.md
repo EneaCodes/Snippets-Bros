@@ -54,7 +54,7 @@ These protections reduce risk, but **cannot make unsafe code safe**. Always test
 1. Upload the `snippets-bros` plugin folder to `/wp-content/plugins/`.
 2. Activate it from **Plugins → Installed Plugins**.
 3. Go to **Snippets Bros** in the admin menu and start adding snippets.
-
+> ✅ Tip: Make sure the folder inside `wp-content/plugins/` is named exactly `snippets-bros`.
 ## Support / Donate
 
 If you find Snippets Bros useful, you can support development here:  
