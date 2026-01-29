@@ -4,13 +4,13 @@
 ## Screenshots
 
 <p align="center">
-  <img src="Screenshots/Screenshot-1.png" width="45%" />
-  <img src="Screenshots/Screenshot-2.png" width="45%" />
+  <img src="Screenshots/Screenshot-1.png" width="400" />
+  <img src="Screenshots/Screenshot-2.png" width="400" />
 </p>
 
 <p align="center">
-  <img src="Screenshots/Screenshot-3.png" width="45%" />
-  <img src="Screenshots/Screenshot-4.png" width="45%" />
+  <img src="Screenshots/Screenshot-3.png" width="400" />
+  <img src="Screenshots/Screenshot-4.png" width="400" />
 </p>
 
 ## Features
