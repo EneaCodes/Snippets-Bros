@@ -4,7 +4,7 @@
 ## Screenshots
 
 <p align="center">
-  <img src="Screenshots/Screenshot-1.png" width="400" />
+  <img src="Screenshots/Screenshot-1.png" width="500" />
 </p>
 
 <p align="center">
