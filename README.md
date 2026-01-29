@@ -4,13 +4,14 @@
 ## Screenshots
 
 <p align="center">
-  <img src="Screenshots/Screenshot-1.png" width="45%" />
-  <img src="Screenshots/Screenshot-2.png" width="45%" />
+  <img src="Screenshots/Screenshot-1.png" width="50%" />
 </p>
-<p align="center">
-  <img src="Screenshots/Screenshot-3.png" width="45%" />
-  <img src="Screenshots/Screenshot-4.png" width="45%" />
-</p>
+
+![Screenshot 2](Screenshots/Screenshot-2.png)
+
+![Screenshot 3](Screenshots/Screenshot-3.png)
+
+![Screenshot 4](Screenshots/Screenshot-4.png)
 
 ## Features
 - Manage snippets by type: **PHP, JS, CSS, HTML**.
