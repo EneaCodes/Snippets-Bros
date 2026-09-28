@@ -308,3 +308,5 @@ cp "$OUT/sha256sums" ../artifact/ 2>/dev/null || true
 
 ls -lh ../artifact
 cat ../artifact/BUILD-INFO.txt
+
+# workflow trigger
